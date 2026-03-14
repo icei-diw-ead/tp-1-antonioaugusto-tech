@@ -3,12 +3,12 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome:Antonio Augusto V. L. Filho
+Matricula:884596
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Tela de Inspeção](images/imagem-inspecao.png)
 
 
 
