@@ -8,7 +8,7 @@ Matricula:884596
 
 ## Tela de inspeção com navegador
 
-![Tela de Inspeção](images/imagem-inspecao.png)
+![Tela de Inspeção](IMAGENS/imagem-inspecao.png)
 
 
 
